@@ -18,6 +18,18 @@
 /* David                                                                         */
 /*********************************************************************************/
 
+.davidstart {
+	border-radius: 0;
+	background-color: #626A6F;
+	color: #fff;
+	width: 4.5em;
+	height: 4.5em;
+	line-height: 4.5em;
+	text-align: center;
+	font-size: 1.25em;
+	padding: 5px;
+}
+
 .eighty {
 	max-width: 80%;
 	margin: 0 auto;
@@ -1054,6 +1066,7 @@
 		/*color: #fff;*/
 		color: #F99D1C;
 		text-align: center;
+		margin-left: 3px;
 		padding: 2.5em 0 2em 0;
 		cursor: default;
 	}
@@ -1091,7 +1104,8 @@
 			position: relative;
 			z-index: 1;
 			margin: 0;
-			padding: 4em 0 0 0;
+			/*padding: 4em 0 0 0;*/
+			padding: 1.5em 0 0 0;
 		}
 	
 		#header h1

@@ -27,14 +27,16 @@
 						
 				<!-- Inner -->
 					<div class="inner">
-						<header>
-							<h1><a href="#" id="logo"><span class="grey">Michael James</span> International</a></h1>
-							<!-- <hr /> -->
-							<span class="byline">Enterprise level Real Estate solutions</span>
-						</header>
-						<footer>
-							<a href="#banner" class="button circled scrolly">Start</a>
-						</footer>
+						<div class="davidheader" style="margin-top: -10em;">
+							<header>
+								<h1><a href="#" id="logo"><span class="grey">Michael James</span> International</a></h1>
+								<!-- <hr /> -->
+								<span class="byline">Enterprise level Real Estate solutions</span>
+							</header>
+							<!-- <footer> -->
+								<br><a href="#banner" class="button circled scrolly">Start</a>
+							<!-- </footer> -->
+						</div>
 					</div>
 				
 				<!-- Nav -->
