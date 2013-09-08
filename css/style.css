@@ -1068,12 +1068,16 @@
 		text-align: center;
 		margin-left: 3px;
 		padding: 2.5em 0 2em 0;
+		/*padding: 1.5em 0 2em 0;*/
+		/*david*/
 		cursor: default;
 	}
 
 		.homepage #header
 		{
+			/*david*/
 			padding: 4em 0 4em 0;
+			/*padding: 1.5em 0 4em 0;*/
 		}
 	
 			.homepage #header .overlay
@@ -1104,8 +1108,9 @@
 			position: relative;
 			z-index: 1;
 			margin: 0;
-			/*padding: 4em 0 0 0;*/
-			padding: 1.5em 0 0 0;
+			/*david*/
+			padding: 4em 0 0 0;
+			/*padding: 1.5em 0 0 0;*/
 		}
 	
 		#header h1
