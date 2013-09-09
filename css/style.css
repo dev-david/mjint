@@ -39,6 +39,10 @@
 	color: #626A6F;
 }
 
+.orange {
+	color: #F99D1C;
+}
+
 
 /*********************************************************************************/
 /* Basic                                                                         */
@@ -1109,8 +1113,8 @@
 			z-index: 1;
 			margin: 0;
 			/*david*/
-			padding: 4em 0 0 0;
-			/*padding: 1.5em 0 0 0;*/
+			/*padding: 4em 0 0 0;*/
+			padding: 1em 0 0 0;
 		}
 	
 		#header h1
@@ -1327,9 +1331,16 @@
 
 	#banner
 	{
-		background: #fff;
+		/*david*/
+		/*background: #fff;*/
+		color: #fff;
+		background-color: #2c3e50;
 		text-align: center;
 		padding: 4.5em 0 4.5em 0;
+	}
+
+	#banner h2 {
+		color: #fff;
 	}
 
 /*********************************************************************************/

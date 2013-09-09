@@ -30,10 +30,11 @@
 							<h1><a href="#" id="logo"><span class="grey">Michael James</span> International</a></h1>
 							<!-- <hr /> -->
 							<span class="byline">Enterprise level Real Estate solutions</span>
+							<a href="#banner" class="button circled scrolly">Start</a>
 						</header>
-						<!-- <footer> -->
-							<br><a href="#banner" class="button circled scrolly">Start</a>
-						<!-- </footer> -->
+						<!-- <footer>
+							<a href="#banner" class="button circled scrolly">Start</a>
+						</footer> -->
 					</div>
 				
 				<!-- Nav -->
@@ -68,7 +69,7 @@
 			
 		<!-- Banner -->
 			<div id="banner">
-				<h2>Worldclass service at your <strong>fingertips</strong>.</h2>
+				<h2>Worldclass service at your <span class="orange">fingertips</span>.</h2>
 				<span class="byline">
 					Premier properties from Michael James International:
 				</span>
@@ -139,7 +140,7 @@
 			<div class="wrapper style2">
 
 				<article id="main" class="container special">
-					<div class="eighty"><a href="images/kennytop.jpg" class="image featured"><img src="images/kennytop.jpg" alt="" /></a></div>
+					<a href="images/kennytop2.jpg" class="image"><img src="images/kennytop2.jpg" alt="" /></a>
 					<header>
 						<h2><a href="#">Sed massa imperdiet magnis</a></h2>
 						<span class="byline">
