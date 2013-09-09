@@ -27,7 +27,7 @@
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="#" id="logo"><span class="grey">Michael James</span> International</a></h1>
+							<h1 style="margin-top: -1.75em;"><a href="#" id="logo"><span class="grey">Michael James</span> International</a></h1>
 							<!-- <hr /> -->
 							<span class="byline">Enterprise level Real Estate solutions</span>
 							<a href="#banner" class="button circled scrolly">Start</a>
