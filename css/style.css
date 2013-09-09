@@ -43,10 +43,28 @@
 	color: #626A6F;
 }
 
+.item {
+	max-width: 250px;
+}
+
+.item header{
+	background: #fff;
+	margin: 0;
+	padding: 1em 0 1em 0;
+	font-size: 0.8em;
+}
+
+.item header h3 {
+	font-size: 1em;
+}
+
 .orange {
 	color: #F99D1C;
 }
 
+.small {
+	font-size: 1em;
+}
 
 /*********************************************************************************/
 /* Basic                                                                         */
@@ -1053,11 +1071,16 @@
 	
 		.wrapper.style1
 		{
+			/*david*/
+			/*background-color: red;*/
 		}
 
 		.wrapper.style2
 		{
 			padding-top: 0;
+			/*david*/
+			background-color: #3193D6;
+			color: #fff;
 		}
 
 /*********************************************************************************/

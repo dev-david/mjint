@@ -140,14 +140,11 @@
 			<div class="wrapper style2">
 
 				<article id="main" class="container special">
-					<div class="eighty">
-						<a href="images/kennytop2.jpg"><img src="images/kennytop2.jpg" alt="" /></a>
-					</div>
+					<!-- 	<a href="images/mjre.jpg"><img src="images/mjre.jpg" alt="" class="image featured"/></a>
 					<header>
-						<h2><a href="#">Sed massa imperdiet magnis</a></h2>
+						<h2><a href="#">List your property with top agents</a></h2>
 						<span class="byline">
-							Sociis aenean eu aenean mollis mollis facilisis primis ornare penatibus aenean. Cursus ac enim 
-							pulvinar curabitur morbi convallis. Lectus malesuada sed fermentum dolore amet.
+							Michael James International 
 						</span>
 					</header>
 					<p>
@@ -162,7 +159,58 @@
 					</p>
 					<footer>
 						<a href="#" class="button">Continue Reading</a>
-					</footer>
+					</footer> -->
+					<section id="main" class="container special">
+					<header>
+						<h2>Enterprise level listing services</h2>
+						<span class="byline">Full market exposure in the hands of professionals</span>
+						<div class="row">
+								<div class="4u">
+									<article class="item">
+										<a href="http://www.3007e22nd.com" class="image full"><img src="images/e22nd2.png" alt="" /></a>
+										<header>
+											<h3><strong>Custom internet domain</strong></h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image full"><iframe class="image full" src="http://www.haikudeck.com/e/J3EjpwRZVt" height="301" width="640" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></a>
+										<header>
+											<h3>The latest presentation solutions</h3>
+										</header>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="#" class="image full"><img src="images/camera.jpg" alt="" /></a>
+										<header>
+											<h3>Professional photography</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="" class="image full"><img src="images/printad2.jpg" alt="" /></a>
+										<header>
+											<h3>Print ads in multiple leading Vietnamese and Chinese language magazines</h3>
+
+										</header>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="" class="image full"><img src="images/pic06.jpg" alt="" /></a>
+										<header>
+											<h3>Full market exposure</h3>
+										</header>
+									</article>
+									<article class="item">
+										<iframe class="image full" width="560" height="315" src="//www.youtube.com/embed/og2TvMtjg1o" frameborder="0" allowfullscreen></iframe>
+										<header>
+											<h3>Video tours</h3>
+										</header>
+									</article>
+								</div>
+							</div>
+					</header>
+				</section>
 				</article>
 
 			</div>
@@ -171,39 +219,40 @@
 			<div class="wrapper style1">
 				
 				<section id="features" class="container special">
+					<a href="images/mjre.jpg"><img src="images/mjre.jpg" alt="" class="image featured"/></a>
 					<header>
-						<h2>Morbi ullamcorper et varius leo lacus</h2>
-						<span class="byline">Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</span>
+						<h2>Michael James Realty team of top agents.</h2>
+						<span class="byline">Award winning team members with over XXX million in properties sold.</span>
 					</header>
 					<div class="row">
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Bueller-VII-351975126" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+							<a href="images/denisefb.jpg" class="image featured"><img src="images/denisefb.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Gravida aliquam penatibus</a></h3>
+								<h3><a href="#">Denise Manguyen</a></h3>
+								<span class="small">Broker</span>
 							</header>
 							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								Denise playes the role that keeps it all together. Denise will do what needs to be done to fulfill the best interests of our business and clients. A well educated professional, Denise insures everyone does and receives 100%.
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Home-Bound-Train-II-338912191" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="images/manguyen.png" class="image featured"><img src="images/manguyen.png" alt="" /></a>
 							<header>
-								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
+								<h3><a href="#">Vinny Manguyen</a></h3>
+								<span class="small">Agent | AREAA East Bay Preseident</span>
 							</header>
 							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								Vinny is president of the greater east bay chapter of AREAA. He is a top producer who has worked with many multi-million dollar properties. Vinny is a professional who will get results.
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Up-is-Down-325005102" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+							<a href="images/kenny1.jpg" class="image featured"><img src="images/kenny1.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Magna laoreet et aliquam</a></h3>
+								<h3><a href="#">Kenny Truong</a></h3>
+								<span class="small">Agent | #3 in home sales 2013 Q3</span>
 							</header>
 							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
+								Kenny was ranked the #3 agent in Alameda County for closed homes sold. He is a branded #fastagent who has inspired many in Alameda counties Real Estate industry with his cutting edge visions.
 							</p>
 						</article>
 					</div>
@@ -219,7 +268,7 @@
 						<!-- Tweets -->
 							<section class="4u">
 								<header>
-									<h2 class="icon icon-twitter circled"><span>Tweets</span></h2>
+									<h2 class="icon icon-envelope circled"><span>Tweets</span></h2>
 								</header>
 								<ul class="divided">
 									<li>
@@ -297,23 +346,23 @@
 								</header>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Air-Lounge-385212062" class="image full"><img src="images/pic10.jpg" alt="" /></a>
+										<a href="images/edgecroft.jpg" class="image full"><img src="images/edgecroft.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Paris-City-Streets-II-382623606" class="image full"><img src="images/pic11.jpg" alt="" /></a>
-									</div>
-								</div>
-								<div class="row quarter no-collapse">
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Trainride-Visions-383309985" class="image full"><img src="images/pic12.jpg" alt="" /></a>
-									</div>
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Paris-Metro-382623851" class="image full"><img src="images/pic13.jpg" alt="" /></a>
+										<a href="images/madrone.jpg" class="image full"><img src="images/madrone.jpg" alt="" /></a>
 									</div>
 								</div>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Cliffs-of-Coogee-II-366961860" class="image full"><img src="images/pic14.jpg" alt="" /></a>
+										<a href="images/coleman.jpg" class="image full"><img src="images/coleman.jpg" alt="" /></a>
+									</div>
+									<div class="6u">
+										<a href="images/rawson.jpg" class="image full"><img src="images/rawson.jpg" alt="" /></a>
+									</div>
+								</div>
+								<div class="row quarter no-collapse">
+									<div class="6u">
+										<a href="images/e22nd.jpg" class="image full"><img src="images/e22nd.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
 										<a href="http://mdomaradzki.deviantart.com/art/Stormy-Coast-VII-366561367" class="image full"><img src="images/pic15.jpg" alt="" /></a>
@@ -345,9 +394,8 @@
 							<!-- Copyright -->
 								<div class="copyright">
 									<ul class="menu">
-										<li>&copy; Untitled. All rights reserved.</li>
-										<li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
-										<li>Demo Images: <a href="http://mdomaradzki.deviantart.com/">Michael Domaradzki</a></li>
+										<li>&copy; Michael James International. All rights reserved.</li>
+										<li>Design: <a href="http:/devdavid.com/">DevDavid</a></li>
 									</ul>
 								</div>
 							
