@@ -221,7 +221,7 @@
 				<section id="features" class="container special">
 					<a href="images/mjre.jpg"><img src="images/mjre.jpg" alt="" class="image featured"/></a>
 					<header>
-						<h2>Michael James Realty team of top agents.</h2>
+						<h2>Michael James International team of top agents.</h2>
 						<span class="byline">Award winning team members with over XXX million in properties sold.</span>
 					</header>
 					<div class="row">
@@ -268,30 +268,30 @@
 						<!-- Tweets -->
 							<section class="4u">
 								<header>
-									<h2 class="icon icon-envelope circled"><span>Tweets</span></h2>
+									<h2 class="icon icon-twitter circled"><span>Michael James Twitter</span></h2>
 								</header>
 								<ul class="divided">
 									<li>
 										<article class="tweet">
-											Amet nullam fringilla nibh nulla convallis tique ante sociis accumsan.
+											MJ International has just been retained to list a city block in West Oakland!
 											<span class="timestamp">5 minutes ago</span>
 										</article>
 									</li>
 									<li>
 										<article class="tweet">
-											Hendrerit rutrum quisque.
+											Successfull open house at our Edgecroft listing today!
 											<span class="timestamp">30 minutes ago</span>
 										</article>
 									</li>
 									<li>
 										<article class="tweet">
-											Curabitur donec nulla massa laoreet nibh. Lorem praesent montes.
+											AREAA barbeque cookoff this saturday, friends and family welcome.
 											<span class="timestamp">3 hours ago</span>
 										</article>
 									</li>
 									<li>
 										<article class="tweet">
-											Lacus natoque cras rhoncus curae dignissim ultricies. Convallis orci aliquet.
+											New marketing changes coming soon...
 											<span class="timestamp">5 hours ago</span>
 										</article>
 									</li>
@@ -301,39 +301,14 @@
 						<!-- Posts -->
 							<section class="4u">
 								<header>
-									<h2 class="icon icon-file circled"><span>Posts</span></h2>
+									<h2 class="icon icon-map-marker circled"><span>Location</span></h2>
 								</header>
 								<ul class="divided">
 									<li>
 										<article class="post stub">
 											<header>
-												<h3><a href="#">Nisl fermentum integer</a></h3>
+												<iframe src="http://www.map-generator.org/82ad7644-8b14-44c6-886a-fedc8151f4ea/iframe-map.aspx" scrolling="no" height="400px" width="270px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 											</header>
-											<span class="timestamp">3 hours ago</span>
-										</article>
-									</li>
-									<li>
-										<article class="post stub">
-											<header>
-												<h3><a href="#">Phasellus portitor lorem</a></h3>
-											</header>
-											<span class="timestamp">6 hours ago</span>
-										</article>
-									</li>
-									<li>
-										<article class="post stub">
-											<header>
-												<h3><a href="#">Magna tempus consequat</a></h3>
-											</header>
-											<span class="timestamp">Yesterday</span>
-										</article>
-									</li>
-									<li>
-										<article class="post stub">
-											<header>
-												<h3><a href="#">Feugiat lorem ipsum</a></h3>
-											</header>
-											<span class="timestamp">2 days ago</span>
 										</article>
 									</li>
 								</ul>
@@ -342,7 +317,7 @@
 						<!-- Photos -->
 							<section class="4u">
 								<header>
-									<h2 class="icon icon-camera circled"><span>Photos</span></h2>
+									<h2 class="icon icon-home circled"><span>Properties</span></h2>
 								</header>
 								<div class="row quarter no-collapse">
 									<div class="6u">
@@ -378,15 +353,14 @@
 							<!-- Contact -->
 								<section class="contact">
 									<header>
-										<h3>Nisl turpis nascetur interdum?</h3>
+										<h3>Want to see more of what we do?</h3>
 									</header>
-									<p>Urna nisl non quis interdum mus ornare ridiculus egestas ridiculus lobortis vivamus tempor aliquet.</p>
+									<p>Come see what we're doing online!</p>
 									<ul class="icons">
 										<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
 										<li><a href="#" class="icon icon-facebook"><span>Facebook</span></a></li>
 										<li><a href="#" class="icon icon-google-plus"><span>Google+</span></a></li>
 										<li><a href="#" class="icon icon-pinterest"><span>Pinterest</span></a></li>
-										<li><a href="#" class="icon icon-dribbble"><span>Dribbble</span></a></li>
 										<li><a href="#" class="icon icon-linkedin"><span>Linkedin</span></a></li>
 									</ul>
 								</section>
