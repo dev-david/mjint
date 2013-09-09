@@ -40,7 +40,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li>
 								<span>Dropdown</span>
 								<ul>
@@ -140,7 +140,9 @@
 			<div class="wrapper style2">
 
 				<article id="main" class="container special">
-					<a href="images/kennytop2.jpg" class="image"><img src="images/kennytop2.jpg" alt="" /></a>
+					<div class="eighty">
+						<a href="images/kennytop2.jpg"><img src="images/kennytop2.jpg" alt="" /></a>
+					</div>
 					<header>
 						<h2><a href="#">Sed massa imperdiet magnis</a></h2>
 						<span class="byline">

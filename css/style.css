@@ -18,6 +18,10 @@
 /* David                                                                         */
 /*********************************************************************************/
 
+.clear {
+	clear: both;
+}
+
 .davidstart {
 	border-radius: 0;
 	background-color: #626A6F;
@@ -1144,11 +1148,11 @@
 		#header .button
 		{
 			border-radius: 100%;
-			width: 4.5em;
-			height: 4.5em;
-			line-height: 4.5em;
+			width: 3.5em;
+			height: 3.5em;
+			line-height: 3.5em;
 			text-align: center;
-			font-size: 1.25em;
+			font-size: 1em;
 			padding: 0;
 		}
 		
